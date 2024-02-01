@@ -1,0 +1,145 @@
+{
+    "quiz": [
+      {
+        "question": "What is the capital of France?",
+        "options": {
+          "A": "Berlin",
+          "B": "Madrid",
+          "C": "Paris",
+          "D": "Rome"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+          "A": "Mars",
+          "B": "Venus",
+          "C": "Jupiter",
+          "D": "Saturn"
+        },
+        "correct_answer": "A"
+      },
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": {
+          "A": "Charles Dickens",
+          "B": "William Shakespeare",
+          "C": "Jane Austen",
+          "D": "Mark Twain"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which element has the chemical symbol 'H'?",
+        "options": {
+          "A": "Helium",
+          "B": "Hydrogen",
+          "C": "Oxygen",
+          "D": "Gold"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "In what year did the Titanic sink?",
+        "options": {
+          "A": "1912",
+          "B": "1920",
+          "C": "1898",
+          "D": "1935"
+        },
+        "correct_answer": "A"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": {
+          "A": "Vincent van Gogh",
+          "B": "Leonardo da Vinci",
+          "C": "Pablo Picasso",
+          "D": "Claude Monet"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": {
+          "A": "Elephant",
+          "B": "Blue Whale",
+          "C": "Giraffe",
+          "D": "Hippopotamus"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": {
+          "A": "China",
+          "B": "Japan",
+          "C": "South Korea",
+          "D": "Thailand"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": {
+          "A": "Thomas Jefferson",
+          "B": "George Washington",
+          "C": "Abraham Lincoln",
+          "D": "John Adams"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": {
+          "A": "Gd",
+          "B": "Au",
+          "C": "Ag",
+          "D": "Fe"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": {
+          "A": "Europe",
+          "B": "Africa",
+          "C": "Asia",
+          "D": "Australia"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": {
+          "A": "Atlantic Ocean",
+          "B": "Indian Ocean",
+          "C": "Southern Ocean",
+          "D": "Pacific Ocean"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": {
+          "A": "J.K. Rowling",
+          "B": "Harper Lee",
+          "C": "George Orwell",
+          "D": "Ernest Hemingway"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "options": {
+          "A": "Beijing",
+          "B": "Seoul",
+          "C": "Tokyo",
+          "D": "Bangkok"
+        },
+        "correct_answer": "C"
+      }
+    ]
+  }
+  
